@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  */
 public class MainPage extends javax.swing.JFrame {
 
-    /**
+    /*
      * Creates new form MainPage
      */
     public MainPage() {
